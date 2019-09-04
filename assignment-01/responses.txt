@@ -1,1 +1,7 @@
+he internet is a global network of networks. The web is information you can access with the internet.
 
+The internet works by computers or any device connects to a worldwide network and allows you to acces information, games ect from a unique IP address.
+
+A directory in my experience is an organization of files or a place where you put files. 
+
+VCS helps organize files and information
