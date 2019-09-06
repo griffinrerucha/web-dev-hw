@@ -1,1 +1,4 @@
-
+Data Travels through the internet in packets very simular to zip files. Once the information arrives at a computer it is assembled like a puzzle. Computers do this extremly quick.
+An IP address is a computer address very simular to the one we have for our houses. I like to think of the DSN like the mail man who brings the newspaper or info from the world wide web to the home.
+Cookies are information gathered from your computer about the websites you have visited.
+The three basic parts of domains are: The protocol http://  The second part isthe domain name: github and the third part is the path. Griffinrerucha/web-dev-hw   
