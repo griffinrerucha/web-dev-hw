@@ -1,0 +1,21 @@
+
+h1 {color: red;}
+
+.square {
+  background-color: blue;
+width: 50% ;
+height: 50px ;
+opacity: 50% ;
+}
+.Me {
+  background-color: pink;
+  width: 50% ;
+  height: 500px ;
+  opacity: 70% ;
+}
+/*I LIKE CSS*/
+.dude {
+  text-align: center;
+  color: blue;
+position: sticky;
+}
