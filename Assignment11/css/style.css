@@ -31,4 +31,10 @@ p::first-letter {
   font-family: 'Permanent Marker', cursive;
   font-size: 4em;
   color: pink;
+
+}
+.logo {
+  width: 5%;
+  height: 5%;
+  align-items: center;
 }
