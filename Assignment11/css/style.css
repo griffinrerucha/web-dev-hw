@@ -1,40 +1,60 @@
-@import url('https://fonts.googleapis.com/css?family=Fredoka+One|Righteous&display=swap');
-h1 {color: red;}
 
-.square {
-  background-color: blue;
-width: 50% ;
-height: 100px ;
-opacity: 50% ;
+
+h1 {color: red;
+font-family: 'Open Sans', sans-serif;
 }
-.square {
-  text-align: left;
-  font-family: 'Fredoka One', cursive;
+
+.img {
+width: 100%;
+height: auto;
+opacity: 90% ;
+margin-left: 300px;
+position: fixed;
+}
+
+.img:hover {
+  opacity: 60%;
 
 }
 
 /*I LIKE CSS*/
 .par {
+  display: run-in;
   text-align: center;
-  color: blue;
+  color: black;
 position: sticky;
 width: 900px;
 line-height: 2em;
+
 }
 
 .par {
-  background-color: yellow;
-  opacity: 50%;
-  font-family: 'Righteous', cursive;
-}
-p::first-letter {
-  font-family: 'Permanent Marker', cursive;
-  font-size: 4em;
-  color: pink;
+  float: right;
+  background-color: white;
+  margin-left: 300px;
+  margin-top: 350px;
+  position: fixed;
 
 }
-.logo {
-  width: 5%;
-  height: 5%;
-  align-items: center;
+
+.nav {
+  width: 300px;
+  height: 100%;
+
+  background-color: orange;
+  opacity: 80%;
+  position: fixed;
+  top: 0;
+  left: 0;
+
+
+}
+.nav a {
+  text-decoration: none;
+  color: white;
+  font-size: 150%;
+  margin-right: 70px;
+  margin-bottom: 500px;
+  margin-top: 500px;
+
 }
