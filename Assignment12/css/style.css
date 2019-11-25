@@ -71,8 +71,9 @@ line-height: 2em;
 .home a {
   text-align: left;
   text-align: top;
-  font-size: 200px;
-  background-color: blue;
+  font-size: 60px;
+  background-color: grey;
+  text-decoration-color: white;
 
 
 }
