@@ -68,11 +68,11 @@ line-height: 2em;
   text-align: left;
 
 }
-.home {
+.home a {
   text-align: left;
   text-align: top;
   font-size: 200px;
   background-color: blue;
-  
+
 
 }
