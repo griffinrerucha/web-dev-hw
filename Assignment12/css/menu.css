@@ -1,0 +1,35 @@
+menu {
+  background-color: grey;
+color: white;
+}
+menu {
+  text-align: left;
+  color: white;
+}
+#site-links .menu-item:hover {
+  background-color: yellow;
+  width: 6em;
+}
+#site-links .dropdown {
+  display: inline-block;
+  width: 6em;
+
+}
+#site-links .dropdown-content {
+  position: absolute;
+  display: none;
+  z-index: 5;
+}
+
+#site-links .dropdown-content a {
+  font-size: 20px;
+}
+#site-links .dropdown:hover .dropdown-content{
+  display: block;
+}
+#site-links .drop-item {
+  width: 6em;
+  display:block;
+
+
+}

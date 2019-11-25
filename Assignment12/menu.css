@@ -1,0 +1,19 @@
+menu {
+  background-color: grey;
+color: white;
+}
+menu {
+  text-align: left;
+  color: white;
+}
+#site-links .menu-item:hover {
+  background-color: black;
+  width: 100px;
+height: 20px;
+}
+.site-links a:hover {
+margin-left: 1em;
+color: red;
+
+
+}

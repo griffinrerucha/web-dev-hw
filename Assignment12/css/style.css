@@ -1,0 +1,70 @@
+
+
+h1 {color: black;
+font-family: 'Open Sans', sans-serif;
+margin-left: 50px;
+}
+
+.img {
+width: 100%;
+height: auto;
+opacity: 90% ;
+margin-left: 300px;
+position: fixed;
+}
+
+.img:hover {
+  opacity: 90%;
+
+}
+
+/*I LIKE CSS*/
+.par {
+  display: run-in;
+  text-align: center;
+  color: blue;
+position: sticky;
+width: 900px;
+line-height: 2em;
+}
+
+.par {
+  float: right;
+  background-color: pink;
+  margin-left: 300px;
+  margin-top: 230px;
+  position: fixed;
+
+}
+
+.nav {
+  width: 240px;
+  height: 100%;
+
+  background-color: red;
+  opacity: 90%;
+  position: fixed;
+  top: 0;
+  left: 0;
+
+
+}
+.nav a {
+  text-decoration: none;
+  color: white;
+  font-size: 150%;
+
+
+}
+.about {
+  float: right;
+  background-color: pink;
+  margin-top: 5px;
+  position: fixed;
+  width: 500px;
+}
+.con {
+  background-color: pink;
+  text-align: left;
+
+}
