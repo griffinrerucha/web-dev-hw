@@ -1,0 +1,31 @@
+
+h1 {
+  color: yellow;
+  font-size: 32pt;
+  text-align: center;
+  background-color: red;
+font-family: 'Lobster Two', cursive;
+}
+
+.par {
+  background-color: red;
+  text-decoration-color: black;
+  width: 50%;
+  font-size: 27pt;
+  padding-right: 25%;
+  padding-left: 25%;
+}
+
+.back  {
+  position: absolute;
+  width: 20%;
+z-index: -5;
+}
+.wag {
+  background-color: red;
+  text-decoration-color: black;
+  width: 50%;
+  font-size: 27pt;
+  padding-right: 25%;
+  padding-left: 25%;
+}

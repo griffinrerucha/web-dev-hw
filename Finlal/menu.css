@@ -1,24 +1,42 @@
-menu {
-  background-color: grey;
-color: white;
+
+a {
+  background-color: red;
+  padding-right: 20pt;
+  padding-left: 20pt;
+  
+}
+site-links {
+  background-color: red;
+  text-align:center;
+  color: black;
+
+  font-size: 29pt;
 }
 menu {
-  text-align: left;
-  color: white;
-}
-#site-links .menu-item:hover {
   background-color: yellow;
-  width: 6em;
+  text-align: center;
+  color: black;
+
+  font-size: 29pt;
+}
+
+
+#site-links .menu-item:hover {
+background-color: yellow;
+
 }
 #site-links .dropdown {
   display: inline-block;
-  width: 6em;
+
+
+
 
 }
 #site-links .dropdown-content {
   position: absolute;
   display: none;
   z-index: 5;
+  background-color: red;
 }
 
 #site-links .dropdown-content a {
